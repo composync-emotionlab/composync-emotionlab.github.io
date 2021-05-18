@@ -1,7 +1,7 @@
 ![composync](/Users/zenonhanappi/Downloads/emotionlab.png)
 
 
-![flyer](/flyer_arenbergpark.jpg)
+![flyer](/flyer-arenbergpark.jpg)
 
 ## Nächste Termine
 --> weitere Termine werden in kürze Veröffentlicht!
