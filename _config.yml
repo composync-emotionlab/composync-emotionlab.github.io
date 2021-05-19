@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: composync:emotionlab
 logo: /composync.png
 description: 
+plugins: jekyll-seo-tag
